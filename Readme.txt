@@ -1,0 +1,1 @@
+This repository contains the implementation of the Intentional Miner, along with the dataset used in the experiments, including BPMN reference models, event logs, and the corresponding extracted SBMN models.
